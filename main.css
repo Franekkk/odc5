@@ -78,6 +78,17 @@ margin-top:10px;
 
 
 }
+.author a
+{
+opacity: 0.7;
+
+
+
+}
+.author a:hover
+{
+opacity: 1;
+}
 
 figure
 {
@@ -89,4 +100,88 @@ figcaption
 {
 margin-top:8px;
 padding:0;
+}
+.entries
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 950px;
+	text-align: center;
+	padding-top:10px ;
+	padding-bottom:80px ;
+	margin-top: 40px; 
+
+
+
+}
+#newwest
+{
+background-color: #191d21;
+
+}
+.entry
+{
+background-color: 
+#222930;
+padding: 10px;
+text-align: justify;
+margin-top: 40px;
+border-radius: 5px;
+}
+.entrying
+{
+display: inline-block;
+margin-left: 30px;
+width: 110px;
+
+}
+.entrying img
+{
+width: 90px;
+height: 90px;
+
+}
+.entrytxt
+{
+display: inline-block;
+width: 700px;
+font-size: 15px;
+width:750px;
+}
+h2
+{
+font-size: 20px;
+font-weight: 400;
+color: #39a5f1;
+}
+.kontakt
+{
+margin-left: auto;
+margin-right: auto;
+width: 950px;
+text-align: center;
+padding-bottom: 70px;
+margin-bottom: 50px;
+}
+.kontakt p 
+{
+margin-bottom: 50px;
+
+
+}
+.bluebutton
+{
+background-color: #1c74b2;
+padding: 15px;
+color: #efefef;
+font-size: 19px;
+text-decoration: none;
+border-radius: 5px;
+min-width: 300px;
+}
+.bluebutton:hover
+{
+background-color:#196499 ;
+
+
 }
